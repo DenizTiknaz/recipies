@@ -1,5 +1,6 @@
-#Ingredients:- Avocado
+#Ingredients:
+-oliveo
 -lemon
-
+-salt
 #Instructions
 
